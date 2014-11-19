@@ -1,0 +1,25 @@
+/*
+Theme Name: Montezuma Child
+Theme URI: http://www.renning.de
+Description: Child Theme for Montezuma
+
+Template: montezuma
+Version: 0.1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, white, gray, blue, one-column, two-columns, three-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-menu, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
+Text Domain: montezuma
+Author: Denis Renning
+Author URI: http://www.renning.de
+*/
+
+
+/* @import url("../montezuma/style.css"); */
+
+.sharedaddy i {
+    display: none !important;
+}
+li.reading-list-li i{
+    background:none !important;
+}
+
